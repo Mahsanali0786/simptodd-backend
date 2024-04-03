@@ -1,0 +1,18 @@
+{
+  "name": "simptodd",
+  "version": "1.0.0",
+  "description": "this is medical project and it will be only used for reading content of xlsx file",
+  "main": "simpto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahsan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
